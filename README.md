@@ -8,11 +8,11 @@ Community-D-Services
 
 ### Team Members
 [1. Sree Govind S A](sreegovindsa)   
-[2. Harigovind S B](enter_github_id_here)   
-[3. Amaldev S S](enter_github_id_here)   
+[2. Harigovind S B](HarigovindSB)   
+[3. Amaldev S S](Amaldevss)   
 
 ### Link to Project
-[Embed the live link of project](live_link)
+Still WIP :)
 
 ### How it Works ?
 We are setting up a system which works entirely on a community driven platform where people can join and choose to be a participant or not, and when someone is in need they can trigger a simple HELP button which notifies the volunteers in the select district of the one in need and to the district helpline informing about the help needed and volunteer details who are happy to help ensuring the safety of the one in need.
@@ -24,7 +24,7 @@ Python, SQL, HTML, Javascript
 Once logged in all we have to trigger a help button if they need any help
 
 ### How to Run
-Instructions for running
+Just Simply login and all okay ;)
 
 ### Other Links
 Provide any other links ( for eg. Wireframe , UI, Abstract, Presentation )
