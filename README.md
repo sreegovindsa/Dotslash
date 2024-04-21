@@ -26,3 +26,5 @@ Install the required modules <br> create the database with required fields and c
 ### How to Run
 Just make sure all required modules are installed. That's it ;)
 
+### Website Design
+[ClickMe](https://www.figma.com/proto/F9cZmxk9m3rjH4Yc0IbpW7/Suraksha-webpage?type=design&node-id=4-476&t=ifzfwC0uLSH2ntLT-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=4%3A476&mode=design)
