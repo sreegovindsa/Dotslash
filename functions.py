@@ -94,7 +94,8 @@ def help():
             list_mail = [mail[0] for mail in mails]
             subject = "Emergency Support Request"
             location = simpledialog.askstring("Location", "Enter your exact location:")
-            message = (name, "from", location, "is requesting your help in an emergency situation.\nPlease Connect with your friends and contact", name, "via Telecom:", phno, "and e-mail:", loggeduser, "for any further details from their side")
+            issue = simpledialog.askstring("Issue","Please specify what kind of issue you are facing")
+            message = (name, "from", location, "is requesting your help in an emergency situation The issue specified is",issue,"Please Connect with your friends and contact", name, "via Telecom:", phno, "and e-mail:", loggeduser, "for any further details from their side")
             text = f"Subject:{subject}\n\n{message}"
             for i in list_mail:
                 server.sendmail(systemmail, i, text)
