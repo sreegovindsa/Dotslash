@@ -6,9 +6,9 @@
 Community-D-Services
 
 ### Team Members
-[1. Sree Govind S A](sreegovindsa)   
-[2. Harigovind S B](HarigovindSB)   
-[3. Amaldev S S](Amaldevss)   
+[1. Sree Govind S A](https://github.com/sreegovindsa)   
+[2. Harigovind S B](https://github.com/HarigovindSB)   
+[3. Amaldev S S](https://github.com/Amaldevss)   
 
 ### Link to Project
 (https://pastebin.com/V4eCZbQ7)
