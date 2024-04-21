@@ -11,19 +11,18 @@ Community-D-Services
 [3. Amaldev S S](Amaldevss)   
 
 ### Link to Project
-Still WIP :)
+(https://pastebin.com/V4eCZbQ7)
 
 ### How it Works ?
-We are setting up a system which works entirely on a community driven platform where people can join and choose to be a participant or not, and when someone is in need they can trigger a simple HELP button which notifies the volunteers in the select district of the one in need and to the district helpline informing about the help needed and volunteer details who are happy to help ensuring the safety of the one in need.
+This is completely a community driven disaster recovery and aid and support system where people can enroll and choose to be a volunteer or not, to make sure no one misuses this facility, we are collecting their Aadhar number, Contact number and working mail address. To make sure the mail address is real, we've set up a verification process where a 6 digit verification code  sent to the same mail will act as a proof for the existance of the mail.
+<br>And whenever someone is in need they can trigger the help available in this platform and provide any required details so that it'll make it easier for the volunteers to act in a right and fast way
 
 ### Technologies used
-Python, SQL, HTML, Javascript
+Python, SQL, Wireframes
 
 ### How to configure
-Once logged in all we have to trigger a help button if they need any help
+Install the required modules <br> create the database with required fields and connect it to python using mysql connector for python
 
 ### How to Run
-Just Simply login and all okay ;)
+Just make sure all required modules are installed. That's it ;)
 
-### Other Links
-Provide any other links ( for eg. Wireframe , UI, Abstract, Presentation )
